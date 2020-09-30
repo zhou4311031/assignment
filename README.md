@@ -2,7 +2,7 @@
 ### TEST JZ
 
 This make file is run at: 
-Tue Sep 29 13:42:40 EDT 2020
+Wed Sep 30 09:41:11 EDT 2020
 
 Guessinggame.sh file has this number of lines: 
-29 guessinggame.sh
+29
